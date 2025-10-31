@@ -1,0 +1,147 @@
+
+Order
+Order Documents
+
+
+
+
+Tracking Number --
+
+the barcode printer: free barcode generator
+
+
+Invoice #364894
+
+Lewis Cabinet Specialties Group LLC
+
+(435) 363-4511
+
+11585 Sagebrush Circle
+Tremonton, UT 84337
+United States
+
+ 
+PO#   Tracking Number -
+
+Bill To:
+Randj Construction
+3135 N 250 E
+North Odgen, UT 84414
+United States	 	Ship To:
+Randj Construction
+7741 W 10400 N
+Tremonton, UT 84337
+United States	 	Order Name: Lenny doors
+Date Ordered: 10/28/2025
+Payment Due By: 12/05/2025
+Ship Date: 11/05/2025
+Shipping Method: Wasatch Front NORTH
+Drawer Front - Slab:
+
+Wood Type:
+Oak
+Edge Profile:
+(E 4) Square
+
+ID	Qty	Width	Height	Cab # no commas	 	Price	Total
+1 01	1	23 13/16	6	CO1VAN1		$19.44	$19.44
+1 02	1	23 13/16	6	CO1VAN2(MASTER)		$19.44	$19.44
+1 03	1	23 3/4	6	CO1VAN3(BASEMENT)		$19.44	$19.44
+1 04	1	10 13/16	6	CO2		$19.44	$19.44
+1 05	1	20 1/2	6	CO3		$19.44	$19.44
+5	Total Items		$97.20
+Drawer Front:
+
+Wood Type:
+Oak
+Door Style:
+(114) Square
+Panel grain direction:
+Horizontal
+Panel Face Style:
+None
+Panel Profile:
+(P 4) 1/2" Flat
+Stile & Rail Profile:
+(D) Bevel
+Edge Profile:
+(E 4) Square
+Top Rail Width:
+3
+Bottom Rail Width:
+3
+Left Stile Width:
+3
+Right Stile Width:
+3
+Hor. Mid Rail Width:
+3
+Vert. Mid Rail Width:
+3
+
+ID	Qty	Width	Height	Cab # no commas	 	Price	Total
+2 01	2	11 27/32	24 1/8	CO1VAN1		$70.44	$140.88
+2 02	2	11 27/32	24 1/8	CO1VAN2(MASTER)		$70.44	$140.88
+2 03	2	11 13/16	24 1/8	CO1VAN3(BASEMENT)		$70.43	$140.86
+2 04	2	10 13/16	12	CO2		$66.50	$133.00
+2 05	2	20 1/2	12	CO3		$70.19	$140.38
+10	Total Items		$696.00
+Door:
+
+Wood Type:
+Oak
+Door Style:
+(114) Square
+Panel Face Style:
+None
+Panel Profile:
+(P 4) 1/2" Flat
+Stile & Rail Profile:
+(D) Bevel
+Edge Profile:
+(E 4) Square
+Top Rail Width:
+3
+Bottom Rail Width:
+3
+Left Stile Width:
+3
+Right Stile Width:
+3
+Hor. Mid Rail Width:
+3
+Vert. Mid Rail Width:
+3
+Cabinet Door Hinge Drilling:
+4" on center
+
+ID	Qty	Width	Height	Cab # no commas	 	Price	Total
+3 01	2	14 5/32	34 3/8	C04		$77.12	$154.24
+Hinge Drilling: Pair	
+3 02	2	14 5/32	34 3/8	C04		$77.12	$154.24
+Hinge Drilling: Pair	
+3 03	2	14 13/16	37 7/8	C05		$84.37	$168.74
+Hinge Drilling: Pair	
+3 04	2	21 3/4	43 1/8	C06		$119.89	$239.78
+Hinge Drilling: Right	
+3 05	2	25	43 1/8	C07		$132.92	$265.84
+Hinge Drilling: Right	
+3 06	2	15 13/16	43 1/16	C08		$95.99	$191.98
+Hinge Drilling: Pair	
+3 07	2	15 13/16	43 1/16	C08		$95.99	$191.98
+Hinge Drilling: Pair	
+14	Total Items		$1,366.80
+Signature
+X
+ 
+Date:
+Order Totals
+Subtotal:	$2,160.00
+Tax:	(6.650%) $143.64
+Shipping:	$0.00
+Total:	$2,303.64
+Payment History
+Total Due: $2,303.64	
+Date Paid	Amount Paid	View Receipt
+No Payments Made Yet.
+Notes

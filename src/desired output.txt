@@ -1,0 +1,32 @@
+I'd like to create a parser and orginizer for some data that I recieve regularly for my job. basically i would want an input where i can add in a bunch of text and then the program would parse it. and then make it nice and readable. perhaps even a print option.
+
+I would like for the output to be an easy to read table with simple columns and rows displaying the information for each door/Drawer
+
+in each column please provide the ID, QTY, Width, Height, Cab # no commas
+in each row include the values for each column header (in the parsing page example its your job to connect them accurately for example, the Id for the first item will be 1 05, qty of 1, width of 20 1/2, height of 6, cab # no commas is C03)
+
+please also group together items as seen in the parsing page. so for example all these items 
+Drawer Front - Slab:
+
+Wood Type:
+Oak
+Edge Profile:
+(E 4) Square
+
+ID	Qty	Width	Height	Cab # no commas	 	Price	Total
+1 05	1	20 1/2	6	CO3		$19.44	$19.44
+1 04	1	10 13/16	6	CO2		$19.44	$19.44
+1 03	1	23 3/4	6	CO1VAN3(BASEMENT)		$19.44	$19.44
+1 02	1	23 13/16	6	CO1VAN2(MASTER)		$19.44	$19.44
+1 01	1	23 13/16	6	CO1VAN1		$19.44	$19.44
+5	Total Items		$97.20
+
+would all be the same category, so give it the accurate group data too in an easy to read format (saying that the wood type is oak, as well as accuretly saying the edge profile)
+(in some other groups there will be other main info, just do your best to include that in an easy and orginized manner)
+
+at the end of each row please add a check box.
+
+dont include the pricing in any of this. its just to keep inventory of doors/drawers
+at the very top of the page please include the order name (in this case it would be Lenny doors)
+
+please make it all a simple and professional format, easy to read and for a good user experience. I will be printing these off later and I'll give them to our workers.
